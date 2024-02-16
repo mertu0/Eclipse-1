@@ -29,6 +29,10 @@ solana-test-validator
 
 # 5 gün sonra not - 8 RAM ile dahi çözülmediyse farklı bir durum söz konusu - chatte yardım isteyiniz.
 
+Eğer solana-test-validator kodu hala çalışmazsa aşağıdaki code ile bende düzeldi;
+
+sudo apt-get install bzip2
+
 # nodejs kurulumu - komutları tek tek kullanalım
 sudo apt-get install -y ca-certificates curl gnupg
 sudo mkdir -p /etc/apt/keyrings
